@@ -28,7 +28,7 @@ Users can authenticate with Google, add bookmarks, and see real-time updates wit
 
 ## Deployed URL
 
-https://bookmark-app-git-main-abhinav-kumars-projects-a26ab1f3.vercel.app/
+https://bookmark-app-two-black.vercel.app/
 
 ---
 
