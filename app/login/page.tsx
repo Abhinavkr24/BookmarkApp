@@ -13,7 +13,7 @@ export default function Login() {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 px-4">
       <div className="w-full max-w-md bg-white rounded-2xl shadow-xl p-8">
         
-        {/* Logo / Title */}
+        
         <div className="text-center mb-8">
           <h1 className="text-2xl font-bold text-gray-800">
             Bookmark Manager
@@ -23,7 +23,7 @@ export default function Login() {
           </p>
         </div>
 
-        {/* Google Button */}
+      
         <button
           onClick={handleLogin}
           className="w-full flex items-center justify-center gap-3 border border-gray-300 rounded-lg py-3 font-medium text-gray-700 hover:bg-gray-50 transition duration-200 shadow-sm"
@@ -53,7 +53,7 @@ export default function Login() {
           Sign in with Google
         </button>
 
-        {/* Footer */}
+       
         <p className="text-xs text-center text-gray-400 mt-6">
           Secure authentication powered by Supabase
         </p>
